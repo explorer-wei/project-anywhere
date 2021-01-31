@@ -1,0 +1,19 @@
+Initialize engine version: 4.6.3f1 (4753d8b6ef2b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvumdshimx.dll 9.18.13.3182]
+    Renderer: NVIDIA NVS 5200M
+    Vendor:   NVIDIA
+    VRAM:     977 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Wei\Documents\GitHub\motor\SendToArduino\TestExe_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Wei\Documents\GitHub\motor\SendToArduino\TestExe_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Wei\Documents\GitHub\motor\SendToArduino\TestExe_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Wei\Documents\GitHub\motor\SendToArduino\TestExe_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Wei\Documents\GitHub\motor\SendToArduino\TestExe_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Wei\Documents\GitHub\motor\SendToArduino\TestExe_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.137 seconds
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
